@@ -1,0 +1,532 @@
+{    
+    "Pedas": [
+        {
+            "nama": "ayam geprek",
+            "keterangan": "Ayam Geprek adalah hidangan khas Indonesia yang menggoda selera dengan potongan ayam garing dan sambal pedas. Nikmati sensasi kriuk ayam yang renyah dipadu dengan kepedasan saus yang memikat.",
+            "gambar": "makanan/aygeprek.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 321 kkal"
+        },
+        {
+            "nama": "nasi pecel",
+            "keterangan": "Pecel dalam hidangan nasi pecel biasanya dibuat dari kangkung, kacang panjang, daun singkong, daun pepaya, atau bunga turi yang dicampur dengan sambal kacang. Nasi pecel sering disajikan dengan tempe goreng, mendoan, dan kerupuk atau rempeyek.",
+            "gambar": "makanan/nasi pecel.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 276 kkal"
+        },
+        {
+            "nama": "ketoprak",
+            "keterangan": "Ketoprak adalah makanan khas Indonesia yang menggunakan ketupat/lontong sebagai bahan utamanya dengan tambahan tahu, bihun, mentimun, tauge, telur rebus yang disiram dengan saus kacang, kecap manis, dan taburan bawang merah goreng.",
+            "gambar": "makanan/ketoprak.png",
+            "kalori": "Makanan yang Anda konsumsi sebesar 402 kkal"
+        },
+        {
+            "nama": "fuyunghai",
+            "keterangan": "Fuyunghai adalah masakan Tionghoa yang dibuat dari telur yang didadar dengan campuran berupa sayuran, daging, atau makanan laut yang dimakan bersama saus asam manis yang biasanya dibuat dari tomat dan kacang polong, tetapi ada juga saus yang disertai dengan potongan nanas di dalamnya.",
+            "gambar": "makanan/fuyunghai.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 113 kkal"
+        },
+        {
+            "nama": "tteokbokki",
+            "keterangan": "Tteokbokki adalah hidangan Korea berupa tepung beras yang dimasak dalam bumbu gochujang yang pedas dan manis. Tepung beras yang dipakai berbentuk bulat batang yang memanjang.",
+            "gambar": "makanan/tteokbokki.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 213 kkal"
+        },
+        {
+            "nama": "soto mie",
+            "keterangan": "Soto mie adalah hidangan mi berkuah kaldu berbumbu pedas. Jenis soto mie paling terkenal di Indonesia berasal dari kota Bogor, Jawa Barat. Bahan utama soto mie Bogor adalah urat kaki sapi, babat, dan mi, ditambahi irisan risoles sederhana berisi sayur dan bihun, tomat, kol, kentang, dan seledri.",
+            "gambar": "makanan/soto mie.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 370 kkal"    
+        },
+        {
+            "nama": "spaghetti",
+            "keterangan": "Spaghetti adalah salah satu jenis pasta yang berbentuk panjang, tipis, silindris, dan padat.",
+            "gambar": "makanan/spaghetti.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 210 kkal"
+        },
+        {
+            "nama": "lumpia basah",
+            "keterangan": "Lumpia basah Jawa Barat terdiri dari kulit lumpia segar yang diolesi dengan adonan tepung kanji dan gula merah yang kemudian diberi isian. Isiannya berupa tumisan telur, taoge, dan olahan bengkuang. Selain itu, dicampur dengan bumbu kencur dan bawang putih, serta sambal cabai yang jumlahnya dapat disesuaikan.",
+            "gambar": "makanan/lumpia basah.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 80 kkal"
+        },
+        {
+            "nama": "nasi padang",
+            "keterangan": "Nasi padang adalah nasi putih yang disajikan dengan berbagai macam lauk-pauk khas Minangkabau, Indonesia. Kata padang merujuk pada ibu kota Provinsi Sumatra Barat, Padang. Nasi padang adalah sebuah hidangan yang disajikan secara lengkap secara prasmanan dengan daging, ayam, sayuran, dan makanan pedas yang dimakan dengan nasi putih.",
+            "gambar": "makanan/nasi padang.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 380 kkal"
+        },
+        {
+            "nama": "ayam penyet",
+            "keterangan": "Ayam penyet adalah hidangan Ayam goreng Indonesia, khususnya Jawa, yang terdiri dari ayam goreng yang diulek memakai ulekan untuk melembutkannya, disajikan dengan sambal, potongan-potongan timun, tahu goreng dan tempe.",
+            "gambar": "makanan/Ayam Penyet.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 199 kkal"
+        },
+        {
+            "nama": "bakso mercon",
+            "keterangan": "Bakso mercon adalah campuran daging sapi giling dengan bumbu termasuk cabai rawit merah. Membuat rasanya begitu pedas.",
+            "gambar": "makanan/Bakso Mercon.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 218 kkal"
+        },
+        {
+            "nama": "ayam betutu ",
+            "keterangan": "Ayam Betutu adalah makanan tradisional khas Bali yang terbuat dari ayam atau bebek utuh yang berisi bumbu, kemudian dipanggang dalam api sekam.",
+            "gambar": "makanan/Ayam Betutu.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 460 kkal"
+        },
+        {
+            "nama": "seblak",
+            "keterangan": "Seblak adalah makanan Indonesia yang dikenal berasal dari Bandung, Jawa Barat dengan cita rasa gurih dan pedas. Terbuat dari kerupuk basah yang dimasak dengan sayuran dan sumber protein seperti telur, ayam, boga bahari, atau olahan daging sapi, dan dimasak dengan kencur.",
+            "gambar": "makanan/Seblak.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 262 kkal"
+        },
+        {
+            "nama": "oseng oseng mercon",
+            "keterangan": "Oseng-oseng Mercon adalah menu masakan yang terbuat dari kikil, gajih, dan tulang muda yang ditumis bersama aneka bumbu. Disebut mercon karena menu ini memiliki cita rasa yang pedas.",
+            "gambar": "makanan/Oseng-oseng Mercon.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 439 kkal"
+        }
+    ],
+    "TanpaSeafood": [
+        {
+            "nama": "ayam geprek",
+            "keterangan": "Ayam Geprek adalah hidangan khas Indonesia yang menggoda selera dengan potongan ayam garing dan sambal pedas. Nikmati sensasi kriuk ayam yang renyah dipadu dengan kepedasan saus yang memikat.",
+            "gambar": "makanan/aygeprek.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 321 kkal"
+        },
+        {
+            "nama": "nasi goreng ayam",
+            "keterangan": "Nikmati Nasi Goreng Ayam hidangan khas Indonesia yang memanjakan lidah dengan nasi goreng yang digoreng sempurna dan potongan ayam yang lezat. Rasakan keharuman rempah yang menggoda dan rasa gurih yang memikat. Disajikan dengan irisan telur dadar, acar segar, dan kerupuk garing.",
+            "gambar": "makanan/nasgor ayam.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 329 kkal"
+        },
+        {
+            "nama": "kwetiau",
+            "keterangan": "Mi kwetiauw yang lembut dan kenyal berpadu dengan bumbu khas yang menggoda. Setiap suapan Kwetiauw akan memanjakan Anda dengan tekstur mi yang sempurna dan rasa gurih yang menggugah selera.",
+            "gambar": "makanan/kwetiau.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 369 kkal"
+        },
+        {
+            "nama": "burger",
+            "keterangan": "Dengan bun juga patty daging yang juicy dan dibumbui dengan resep rahaisa tuan krab, serta dilengkapi dengan keju meleleh, sayuran segar, dan saus khas, setiap gigitan burger ini membawa sensasi yang tak terlupakan.",
+            "gambar": "makanan/burger.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 258 kkal"
+        },
+        {
+            "nama": "kebab",
+            "keterangan": "Daging yang dipanggang dengan sempurna digulung dengan tortila bersama dengan sayuran segar, saus khas, dan rempah-rempah yang memikat, setiap gigitan kebab ini memberikan kelezatan yang tak terlupakan. Siapkan diri Anda untuk sensasi rasa yang memuaskan dan kaya akan cita rasa di dalam setiap gigitan.",
+            "gambar": "makanan/kebab.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 402 kkal"
+        },
+        {
+            "nama": "pizza",
+            "keterangan": "Nikmati hidangan klasik Italia, Pizza, yang memanjakan lidah dengan kombinasi sempurna dari adonan lezat, saus tomat yang kaya rasa, keju meleleh, dan beragam topping yang menggugah selera.",
+            "gambar": "makanan/pizza.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 250 kkal"
+        },
+        {
+            "nama": "zuppa soup",
+            "keterangan": "Dengan campuran bahan segar, sayuran, dan rempah-rempah yang berkualitas, setiap sendokan sup ini memberikan cita rasa yang memikat hati. Rasakan sensasi adonan roti dengan kelezatan sup yang lembut, diselimuti dengan kuah yang gurih.",
+            "gambar": "makanan/zuppa soup.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 179 kkal"
+        },
+        {
+            "nama": "sate buntel",
+            "keterangan": "daging gurih yang dibumbui secara khas dan dibalut dengan lapisan lemak yang lezat. Dipanggang sempurna di atas arang, Rasakan kombinasi sempurna dari cita rasa rempah yang meresap ke dalam daging yang juicy. setiap tusukan sate ini memberikan kelezatan yang tak terlupakan.",
+            "gambar": "makanan/sate buntel.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 353 kkal"
+        },
+        {
+            "nama": "gado-gado",
+            "keterangan": "Gado-gado adalah makanan khas Betawi berisi sayur-sayuran yang direbus, irisan telur dan tahu, serta ditaburi bawang goreng dan kerupuk. Sayur-sayuran ditambahkan dengan bumbu kacang atau saus dari kacang tanah yang telah dihaluskan yang kemudian diaduk merata.",
+            "gambar": "makanan/gado-gado.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 318 kkal"
+        },
+        {
+            "nama": "mie ayam",
+            "keterangan": "Mi ayam adalah hidangan khas Indonesia yang terbuat dari mi gandum yang dibumbui dengan daging ayam yang biasanya dipotong dadu. Hidangan ini banyak terpengaruh dengan teknik penyajian kuliner yang digunakan dalam hidangan Tionghoa.",
+            "gambar": "mie ayam.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 421 kkal"
+        },
+        {
+            "nama": "capcay kuah",
+            "keterangan": "Capcay adalah nama hidangan khas Tionghoa-Indonesia berupa banyak macam sayuran yang dimasak dengan cara direbus.",
+            "gambar": "makanan/capcay kuah.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 67 kkal"
+        },
+        {
+            "nama": "bihun goreng",
+            "keterangan": "Bihun goreng, yaitu masakan Tionghoa-Indonesia berupa bihun goreng dengan kecap manis.",
+            "gambar": "makanan/bihun goreng.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 455 kkal"
+        },
+        {
+            "nama": "nasi pecel",
+            "keterangan": "Pecel dalam hidangan nasi pecel biasanya dibuat dari kangkung, kacang panjang, daun singkong, daun pepaya, atau bunga turi yang dicampur dengan sambal kacang. Nasi pecel sering disajikan dengan tempe goreng, mendoan, dan kerupuk atau rempeyek.",
+            "gambar": "makanan/nasi pecel.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 276 kkal"
+        },
+        {
+            "nama": "bubur ayam",
+            "keterangan": "Bubur ayam disajikan dengan irisan daging ayam dengan beberapa bumbu, seperti kecap asin dan kecap manis, merica, garam, dan terkadang diberi kaldu ayam. Bubur dilengkapi dengan taburan daun bawang cincang, bawang goreng, seledri, tongcai (sayur asin), kacang tanah goreng, cakwe, dan kerupuk.",
+            "gambar": "makanan/bubur ayam.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 372 kkal"
+        },
+        {
+            "nama": "ketoprak",
+            "keterangan": "Ketoprak adalah makanan khas Indonesia yang menggunakan ketupat/lontong sebagai bahan utamanya dengan tambahan tahu, bihun, mentimun, tauge, telur rebus yang disiram dengan saus kacang, kecap manis, dan taburan bawang merah goreng.",
+            "gambar": "makanan/ketoprak.png",
+            "kalori": "Makanan yang Anda konsumsi sebesar 402 kkal"
+        },
+        {
+            "nama": "kupat tahu",
+            "keterangan": "Kupat tahu berbahan dasar ketupat, tahu, kol, dan tauge yang telah digoreng, dicampur dengan bumbu kacang dan kecap.",
+            "gambar": "makanan/kupat tahu.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 391 kkal"
+        },
+        {
+            "nama": "bento",
+            "keterangan": "Bento adalah istilah bahasa Jepang untuk makanan bekal berupa nasi beserta lauk-pauk dalam kemasan praktis yang bisa dibawa-bawa dan dimakan di tempat lain.",
+            "gambar": "makanan/bento.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 470 kkal"
+        },
+        {
+            "nama": "fuyunghai",
+            "keterangan": "Fuyunghai adalah masakan Tionghoa yang dibuat dari telur yang didadar dengan campuran berupa sayuran, daging, atau makanan laut yang dimakan bersama saus asam manis yang biasanya dibuat dari tomat dan kacang polong, tetapi ada juga saus yang disertai dengan potongan nanas di dalamnya.",
+            "gambar": "makanan/fuyunghai.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 113 kkal"
+        },
+        {
+            "nama": "lumpia basah",
+            "keterangan": "Lumpia basah Jawa Barat terdiri dari kulit lumpia segar yang diolesi dengan adonan tepung kanji dan gula merah yang kemudian diberi isian. Isiannya berupa tumisan telur, taoge, dan olahan bengkuang. Selain itu, dicampur dengan bumbu kencur dan bawang putih, serta sambal cabai yang jumlahnya dapat disesuaikan.",
+            "gambar": "makanan/lumpia basah.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 80 kkal"
+        },
+        {
+            "nama": "roti canai",
+            "keterangan": "Roti canai adalah sejenis roti pipih (flatbread) dengan pengaruh India yang dapat ditemukan di beberapa negara di Asia Tenggara, antara lain Brunei, Indonesia, Malaysia dan Singapura, dan biasanya disajikan dengan kari kambing dan teh tarik.",
+            "gambar": "makanan/roti canai.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 302 kkal"
+        },
+        {
+            "nama": "pempek",
+            "keterangan": "Pempek adalah makanan yang terbuat dari daging ikan yang digiling lembut yang dicampur tepung kanji atau tepung sagu, serta komposisi beberapa bahan lain seperti telur, bawang putih yang dihaluskan, penyedap rasa, dan garam. Pempek biasanya disajikan dengan kuah yang disebut cuka yang memiliki rasa asam, manis, dan pedas.",
+            "gambar": "makanan/pempek.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 234 kkal"
+        },
+        {
+            "nama": "tteokbokki",
+            "keterangan": "Tteokbokki adalah hidangan Korea berupa tepung beras yang dimasak dalam bumbu gochujang yang pedas dan manis. Tepung beras yang dipakai berbentuk bulat batang yang memanjang.",
+            "gambar": "makanan/tteokbokki.jog",
+            "kalori": "Makanan yang Anda konsumsi sebesar 213 kkal"
+        },
+        {
+            "nama": "soto mie",
+            "keterangan": "Soto mie adalah hidangan mi berkuah kaldu berbumbu pedas. Jenis soto mie paling terkenal di Indonesia berasal dari kota Bogor, Jawa Barat. Bahan utama soto mie Bogor adalah urat kaki sapi, babat, dan mi, ditambahi irisan risoles sederhana berisi sayur dan bihun, tomat, kol, kentang, dan seledri.",
+            "gambar": "makanan/soto mie.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 370 kkal"
+        },
+        {
+            "nama": "spaghetti",
+            "keterangan": "Spaghetti adalah salah satu jenis pasta yang berbentuk panjang, tipis, silindris, dan padat.",
+            "gambar": "makanan/spaghetti.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 210 kkal"
+        },
+        {
+            "nama": "oatmeal",
+            "keterangan": "Oatmeal adalah hasil dari oat yang telah dikupas, dipotong, dikukus, diratakan, dan digiling.",
+            "gambar": "makanan/oatmeal.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 143 kkal"
+        },
+        {
+            "nama": "salad buah",
+            "keterangan": "Salad buah adalah jenis salad yang dimana seluruh komponen isian di dalamnya terdiri dari buah-buahan segar. Untuk isian salad buah ini memang sangat fleksibel dan untuk topping-nya biasanya akan diberi parutan keju dan mayonnaise.",
+            "gambar": "makanan/salad buah.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 54 kkal"
+        },
+        {
+            "nama": "nasi uduk",
+            "keterangan": "Nasi uduk adalah hidangan yang dibuat dari nasi putih yang diaron dan dikukus dengan santan, serta dibumbui dengan pala, kayu manis, jahe, daun serai dan merica. Nasi uduk biasa dihidangkan dengan emping goreng, tahu goreng, telur dadar atau telur goreng yang teriris, abon kering, tempe, bawang goreng, ayam goreng, timun.",
+            "gambar": "makanan/nasi uduk.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 260 kkal"
+        },
+        {
+            "nama": "nasi padang",
+            "keterangan": "Nasi padang adalah nasi putih yang disajikan dengan berbagai macam lauk-pauk khas Minangkabau, Indonesia. Kata padang merujuk pada ibu kota Provinsi Sumatra Barat, Padang. Nasi padang adalah sebuah hidangan yang disajikan secara lengkap secara prasmanan dengan daging, ayam, sayuran, dan makanan pedas yang dimakan dengan nasi putih.",
+            "gambar": "makanan/nasi padang.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 380 kkal"
+        },
+        {
+            "nama": "chicken katsu",
+            "keterangan": "Chicken katsu adalah masakan Jepang yang terdiri atas irisan daging ayam yang dilapis tepung panir dan digoreng dalam minyak yang banyak.",
+            "gambar": "makanan/chicken katsu.png",
+            "kalori": "Makanan yang Anda konsumsi sebesar 250 kkal"
+        },
+        {
+            "nama": "ayam betutu ",
+            "keterangan": "Ayam Betutu adalah makanan tradisional khas Bali yang terbuat dari ayam atau bebek utuh yang berisi bumbu, kemudian dipanggang dalam api sekam.",
+            "gambar": "makanan/Ayam Betutu.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 460 kkal"
+        },
+        {
+            "nama": "seblak",
+            "keterangan": "Seblak adalah makanan Indonesia yang dikenal berasal dari Bandung, Jawa Barat dengan cita rasa gurih dan pedas. Terbuat dari kerupuk basah yang dimasak dengan sayuran dan sumber protein seperti telur, ayam, boga bahari, atau olahan daging sapi, dan dimasak dengan kencur.",
+            "gambar": "makanan/Seblak.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 262 kkal"
+        },
+        {
+            "nama": "oseng oseng mercon",
+            "keterangan": "Oseng-oseng Mercon adalah menu masakan yang terbuat dari kikil, gajih, dan tulang muda yang ditumis bersama aneka bumbu. Disebut mercon karena menu ini memiliki cita rasa yang pedas.",
+            "gambar": "makanan/Oseng-oseng Mercon.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 439 kkal"
+        },
+        {
+            "nama": "soto ayam",
+            "keterangan": "Soto ayam adalah makanan khas Indonesia yang berupa sejenis sup ayam dengan kuah yang berwarna kekuningan. Warna kuning ini dikarenakan oleh kunyit yang digunakan sebagai bumbu.",
+            "gambar": "makanan/Soto Ayam.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 312 kkal"
+        },
+        {
+            "nama": "sate kambing",
+            "keterangan": "Sate kambing adalah sejenis makanan sate terbuat dari daging kambing. daging kambing tersebut disate (ditusuk dengan bambu yang dibentuk seperti lidi yang agak besar) dan dibumbui dengan rempah-rempah dan bumbu dapur, kemudian dibakar.",
+            "gambar": "makanan/Sate kambing.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 216 kkal"
+        },
+        {
+            "nama": "ayam penyet",
+            "keterangan": "Ayam penyet adalah hidangan Ayam goreng Indonesia, khususnya Jawa, yang terdiri dari ayam goreng yang diulek memakai ulekan untuk melembutkannya, disajikan dengan sambal, potongan-potongan timun, tahu goreng dan tempe.",
+            "gambar": "makanan/Ayam Penyet.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 199 kkal"
+        }
+    ],
+    "RendahKalori": [
+        {
+            "nama": "takoyaki",
+            "keterangan": "Takoyaki, hidangan lezat asal Jepang yang memikat dengan bola yang gurih. Bola yang lembut dan berpadu dengan potongan octopus yang segar menciptakan kombinasi rasa yang tak terlupakan. Disajikan dengan saus takoyaki khas, mayones, dan taburan daun nori yang menyempurnakan cita rasanya.",
+            "gambar": "makanan/takoyaki.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 70 kkal"
+        },
+        {
+            "nama": "sushi",
+            "keterangan": "Nikmati hidangan Jepang yang legendaris, Sushi, dengan kelezatan segar yang memikat setiap lidah. setiap gulungan sushi ini menghadirkan kombinasi sempurna antara nasi yang kenyal, daging, sayuran segar, dan saus khusus yang membangkitkan rasa autentik. Rasakan sensasi rasa yang lezat dan keharmonisan tekstur dalam setiap suapan sushi.",
+            "gambar": "makanan/sushi.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 146 kkal"
+        },
+        {
+            "nama": "capcay kuah",
+            "keterangan": "Capcay adalah nama hidangan khas Tionghoa-Indonesia berupa banyak macam sayuran yang dimasak dengan cara direbus.",
+            "gambar": "makanan/capcay kuah.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 67 kkal"
+        },
+        {
+            "nama": "fuyunghai",
+            "keterangan": "Fuyunghai adalah masakan Tionghoa yang dibuat dari telur yang didadar dengan campuran berupa sayuran, daging, atau makanan laut yang dimakan bersama saus asam manis yang biasanya dibuat dari tomat dan kacang polong, tetapi ada juga saus yang disertai dengan potongan nanas di dalamnya.",
+            "gambar": "makanan/fuyunghai.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 113 kkal"
+        },
+        {
+            "nama": "lumpia basah",
+            "keterangan": "Lumpia basah Jawa Barat terdiri dari kulit lumpia segar yang diolesi dengan adonan tepung kanji dan gula merah yang kemudian diberi isian. Isiannya berupa tumisan telur, taoge, dan olahan bengkuang. Selain itu, dicampur dengan bumbu kencur dan bawang putih, serta sambal cabai yang jumlahnya dapat disesuaikan.",
+            "gambar": "makanan/lumpia basah.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 80 kkal"
+        },
+        {
+            "nama": "oatmeal",
+            "keterangan": "Oatmeal adalah hasil dari oat yang telah dikupas, dipotong, dikukus, diratakan, dan digiling.",
+            "gambar": "makanan/oatmeal.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 143 kkal"
+        },
+        {
+            "nama": "salad buah",
+            "keterangan": "Salad buah adalah jenis salad yang dimana seluruh komponen isian di dalamnya terdiri dari buah-buahan segar. Untuk isian salad buah ini memang sangat fleksibel dan untuk topping-nya biasanya akan diberi parutan keju dan mayonnaise.",
+            "gambar": "makanan/salad buah.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 54 kkal"
+        },
+        {
+            "nama": "ayam penyet",
+            "keterangan": "Ayam penyet adalah hidangan Ayam goreng Indonesia, khususnya Jawa, yang terdiri dari ayam goreng yang diulek memakai ulekan untuk melembutkannya, disajikan dengan sambal, potongan-potongan timun, tahu goreng dan tempe.",
+            "gambar": "makanan/Ayam Penyet.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 199 kkal"
+        },
+        {
+            "nama": "kakap bakar",
+            "keterangan": "Kakap bakar merupakan salah satu hidangan seafood yang paling populer. Dari rasa daging ikannya yang manis ditambah cara masaknya yag dibakar sangat disukai banyak orang",
+            "gambar": "makanan/Kakap Bakar.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 108 kkal"
+        },
+        {
+            "nama": "zuppa soup",
+            "keterangan": "Dengan campuran bahan segar, sayuran, dan rempah-rempah yang berkualitas, setiap sendokan sup ini memberikan cita rasa yang memikat hati. Rasakan sensasi adonan roti dengan kelezatan sup yang lembut, diselimuti dengan kuah yang gurih.",
+            "gambar": "makanan/zuppa soup.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 179 kkal"
+        }
+    ],
+    "P&TS": [
+        {
+            "nama": "ayam geprek",
+            "keterangan": "Ayam Geprek adalah hidangan khas Indonesia yang menggoda selera dengan potongan ayam garing dan sambal pedas. Nikmati sensasi kriuk ayam yang renyah dipadu dengan kepedasan saus yang memikat.",
+            "gambar": "makanan/aygeprek.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 321 kkal"
+        },
+        {
+            "nama": "nasi pecel",
+            "keterangan": "Pecel dalam hidangan nasi pecel biasanya dibuat dari kangkung, kacang panjang, daun singkong, daun pepaya, atau bunga turi yang dicampur dengan sambal kacang. Nasi pecel sering disajikan dengan tempe goreng, mendoan, dan kerupuk atau rempeyek.",
+            "gambar": "makanan/nasi pecel.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 276 kkal"
+        },
+        {
+            "nama": "ketoprak",
+            "keterangan": "Ketoprak adalah makanan khas Indonesia yang menggunakan ketupat/lontong sebagai bahan utamanya dengan tambahan tahu, bihun, mentimun, tauge, telur rebus yang disiram dengan saus kacang, kecap manis, dan taburan bawang merah goreng.",
+            "gambar": "makanan/ketoprak.png",
+            "kalori": "Makanan yang Anda konsumsi sebesar 402 kkal"
+        },
+        {
+            "nama": "fuyunghai",
+            "keterangan": "Fuyunghai adalah masakan Tionghoa yang dibuat dari telur yang didadar dengan campuran berupa sayuran, daging, atau makanan laut yang dimakan bersama saus asam manis yang biasanya dibuat dari tomat dan kacang polong, tetapi ada juga saus yang disertai dengan potongan nanas di dalamnya.",
+            "gambar": "makanan/fuyunghai.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 113 kkal"
+        },
+        {
+            "nama": "lumpia basah",
+            "keterangan": "Lumpia basah Jawa Barat terdiri dari kulit lumpia segar yang diolesi dengan adonan tepung kanji dan gula merah yang kemudian diberi isian. Isiannya berupa tumisan telur, taoge, dan olahan bengkuang. Selain itu, dicampur dengan bumbu kencur dan bawang putih, serta sambal cabai yang jumlahnya dapat disesuaikan.",
+            "gambar": "makanan/lumpia basah.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 80 kkal"
+        },
+        {
+            "nama": "tteokbokki",
+            "keterangan": "Tteokbokki adalah hidangan Korea berupa tepung beras yang dimasak dalam bumbu gochujang yang pedas dan manis. Tepung beras yang dipakai berbentuk bulat batang yang memanjang.",
+            "gambar": "makanan/tteokbokki.jog",
+            "kalori": "Makanan yang Anda konsumsi sebesar 213 kkal"
+        },
+        {
+            "nama": "soto mie",
+            "keterangan": "Soto mie adalah hidangan mi berkuah kaldu berbumbu pedas. Jenis soto mie paling terkenal di Indonesia berasal dari kota Bogor, Jawa Barat. Bahan utama soto mie Bogor adalah urat kaki sapi, babat, dan mi, ditambahi irisan risoles sederhana berisi sayur dan bihun, tomat, kol, kentang, dan seledri.",
+            "gambar": "makanan/soto mie.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 370 kkal"
+        },
+        {
+            "nama": "spaghetti",
+            "keterangan": "Spaghetti adalah salah satu jenis pasta yang berbentuk panjang, tipis, silindris, dan padat.",
+            "gambar": "makanan/spaghetti.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 210 kkal"
+        },
+        {
+            "nama": "nasi padang",
+            "keterangan": "Nasi padang adalah nasi putih yang disajikan dengan berbagai macam lauk-pauk khas Minangkabau, Indonesia. Kata padang merujuk pada ibu kota Provinsi Sumatra Barat, Padang. Nasi padang adalah sebuah hidangan yang disajikan secara lengkap secara prasmanan dengan daging, ayam, sayuran, dan makanan pedas yang dimakan dengan nasi putih.",
+            "gambar": "makanan/nasi padang.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 380 kkal"
+        },
+        {
+            "nama": "ayam betutu ",
+            "keterangan": "Ayam Betutu adalah makanan tradisional khas Bali yang terbuat dari ayam atau bebek utuh yang berisi bumbu, kemudian dipanggang dalam api sekam.",
+            "gambar": "makanan/Ayam Betutu.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 460 kkal"
+        },
+        {
+            "nama": "bakso mercon",
+            "keterangan": "Bakso mercon adalah campuran daging sapi giling dengan bumbu termasuk cabai rawit merah. Membuat rasanya begitu pedas.",
+            "gambar": "makanan/Bakso Mercon.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 218 kkal"
+        },
+        {
+            "nama": "seblak",
+            "keterangan": "Seblak adalah makanan Indonesia yang dikenal berasal dari Bandung, Jawa Barat dengan cita rasa gurih dan pedas. Terbuat dari kerupuk basah yang dimasak dengan sayuran dan sumber protein seperti telur, ayam, boga bahari, atau olahan daging sapi, dan dimasak dengan kencur.",
+            "gambar": "makanan/Seblak.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 262 kkal"
+        },
+        {
+            "nama": "oseng oseng mercon",
+            "keterangan": "Oseng-oseng Mercon adalah menu masakan yang terbuat dari kikil, gajih, dan tulang muda yang ditumis bersama aneka bumbu. Disebut mercon karena menu ini memiliki cita rasa yang pedas.",
+            "gambar": "makanan/Oseng-oseng Mercon.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 439 kkal"
+        },
+        {
+            "nama": "ayam penyet",
+            "keterangan": "Ayam penyet adalah hidangan Ayam goreng Indonesia, khususnya Jawa, yang terdiri dari ayam goreng yang diulek memakai ulekan untuk melembutkannya, disajikan dengan sambal, potongan-potongan timun, tahu goreng dan tempe.",
+            "gambar": "makanan/Ayam Penyet.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 199 kkal"
+        }
+    ],
+    "TS&RK": [
+        {
+            "nama": "ayam penyet",
+            "keterangan": "Ayam penyet adalah hidangan Ayam goreng Indonesia, khususnya Jawa, yang terdiri dari ayam goreng yang diulek memakai ulekan untuk melembutkannya, disajikan dengan sambal, potongan-potongan timun, tahu goreng dan tempe.",
+            "gambar": "makanan/Ayam Penyet.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 199 kkal"
+        },
+        {
+            "nama": "zuppa soup",
+            "keterangan": "Dengan campuran bahan segar, sayuran, dan rempah-rempah yang berkualitas, setiap sendokan sup ini memberikan cita rasa yang memikat hati. Rasakan sensasi adonan roti dengan kelezatan sup yang lembut, diselimuti dengan kuah yang gurih.",
+            "gambar": "makanan/zuppa soup.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 179 kkal"
+        },
+        {
+            "nama": "capcay kuah",
+            "keterangan": "Capcay adalah nama hidangan khas Tionghoa-Indonesia berupa banyak macam sayuran yang dimasak dengan cara direbus.",
+            "gambar": "makanan/capcay kuah.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 67 kkal"
+        },
+        {
+            "nama": "fuyunghai",
+            "keterangan": "Fuyunghai adalah masakan Tionghoa yang dibuat dari telur yang didadar dengan campuran berupa sayuran, daging, atau makanan laut yang dimakan bersama saus asam manis yang biasanya dibuat dari tomat dan kacang polong, tetapi ada juga saus yang disertai dengan potongan nanas di dalamnya.",
+            "gambar": "makanan/fuyunghai.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 113 kkal"
+        },
+        {
+            "nama": "lumpia basah",
+            "keterangan": "Lumpia basah Jawa Barat terdiri dari kulit lumpia segar yang diolesi dengan adonan tepung kanji dan gula merah yang kemudian diberi isian. Isiannya berupa tumisan telur, taoge, dan olahan bengkuang. Selain itu, dicampur dengan bumbu kencur dan bawang putih, serta sambal cabai yang jumlahnya dapat disesuaikan.",
+            "gambar": "makanan/lumpia basah.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 80 kkal"
+        },
+        {
+            "nama": "oatmeal",
+            "keterangan": "Oatmeal adalah hasil dari oat yang telah dikupas, dipotong, dikukus, diratakan, dan digiling.",
+            "gambar": "makanan/oatmeal.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 143 kkal"
+        },
+        {
+            "nama": "salad buah",
+            "keterangan": "Salad buah adalah jenis salad yang dimana seluruh komponen isian di dalamnya terdiri dari buah-buahan segar. Untuk isian salad buah ini memang sangat fleksibel dan untuk topping-nya biasanya akan diberi parutan keju dan mayonnaise.",
+            "gambar": "makanan/salad buah.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 54 kkal"
+        }
+    ],
+    "P&RK": [
+        {
+            "nama": "fuyunghai",
+            "keterangan": "Fuyunghai adalah masakan Tionghoa yang dibuat dari telur yang didadar dengan campuran berupa sayuran, daging, atau makanan laut yang dimakan bersama saus asam manis yang biasanya dibuat dari tomat dan kacang polong, tetapi ada juga saus yang disertai dengan potongan nanas di dalamnya.",
+            "gambar": "makanan/fuyunghai.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 113 kkal"
+        },
+        {
+            "nama": "lumpia basah",
+            "keterangan": "Lumpia basah Jawa Barat terdiri dari kulit lumpia segar yang diolesi dengan adonan tepung kanji dan gula merah yang kemudian diberi isian. Isiannya berupa tumisan telur, taoge, dan olahan bengkuang. Selain itu, dicampur dengan bumbu kencur dan bawang putih, serta sambal cabai yang jumlahnya dapat disesuaikan.",
+            "gambar": "makanan/lumpia basah.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 80 kkal"
+        },
+        {
+            "nama": "ayam penyet",
+            "keterangan": "Ayam penyet adalah hidangan Ayam goreng Indonesia, khususnya Jawa, yang terdiri dari ayam goreng yang diulek memakai ulekan untuk melembutkannya, disajikan dengan sambal, potongan-potongan timun, tahu goreng dan tempe.",
+            "gambar": "makanan/Ayam Penyet.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 199 kkal"
+        }
+    ],
+    "All": [
+        {
+            "nama": "fuyunghai",
+            "keterangan": "Fuyunghai adalah masakan Tionghoa yang dibuat dari telur yang didadar dengan campuran berupa sayuran, daging, atau makanan laut yang dimakan bersama saus asam manis yang biasanya dibuat dari tomat dan kacang polong, tetapi ada juga saus yang disertai dengan potongan nanas di dalamnya.",
+            "gambar": "makanan/fuyunghai.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 113 kkal"
+        },
+        {
+            "nama": "lumpia basah",
+            "keterangan": "Lumpia basah Jawa Barat terdiri dari kulit lumpia segar yang diolesi dengan adonan tepung kanji dan gula merah yang kemudian diberi isian. Isiannya berupa tumisan telur, taoge, dan olahan bengkuang. Selain itu, dicampur dengan bumbu kencur dan bawang putih, serta sambal cabai yang jumlahnya dapat disesuaikan.",
+            "gambar": "makanan/lumpia basah.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 80 kkal"
+        },
+        {
+            "nama": "ayam penyet",
+            "keterangan": "Ayam penyet adalah hidangan Ayam goreng Indonesia, khususnya Jawa, yang terdiri dari ayam goreng yang diulek memakai ulekan untuk melembutkannya, disajikan dengan sambal, potongan-potongan timun, tahu goreng dan tempe.",
+            "gambar": "makanan/Ayam Penyet.jpg",
+            "kalori": "Makanan yang Anda konsumsi sebesar 199 kkal"
+        }
+    ]
+}
