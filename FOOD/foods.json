@@ -1,0 +1,54 @@
+{
+    "Pedas": [
+      {
+        "nama": "ayam penyet",
+        "keterangan": "Ayam penyet adalah hidangan Ayam goreng Indonesia, khususnya Jawa, yang terdiri dari ayam goreng yang diulek memakai ulekan untuk melembutkannya, disajikan dengan sambal, potongan-potongan timun, tahu goreng dan tempe",
+        "gambar": "Ayam Penyet.jpg"
+      },
+      {
+        "nama": "bakso mercon",
+        "keterangan": "Bakso mercon adalah campuran daging sapi giling dengan bumbu termasuk cabai rawit merah. Membuat rasanya begitu pedas.",
+        "gambar": "Bakso Mercon.jpg"
+      },
+      {
+        "nama": "ayam betutu ",
+        "keterangan": "Ayam Betutu adalah makanan tradisional khas Bali yang terbuat dari ayam atau bebek utuh yang berisi bumbu, kemudian dipanggang dalam api sekam.",
+        "gambar": "Ayam Betutu.jpg"
+      },
+      {
+        "nama": "seblak",
+        "keterangan": "Seblak adalah makanan Indonesia yang dikenal berasal dari Bandung, Jawa Barat dengan cita rasa gurih dan pedas. Terbuat dari kerupuk basah yang dimasak dengan sayuran dan sumber protein seperti telur, ayam, boga bahari, atau olahan daging sapi, dan dimasak dengan kencur.",
+        "gambar": "Seblak.jpg"
+      },
+      {
+        "nama": "oseng oseng mercon",
+        "keterangan": "Oseng-oseng Mercon adalah menu masakan yang terbuat dari kikil, gajih, dan tulang muda yang ditumis bersama aneka bumbu. Disebut mercon karena menu ini memiliki cita rasa yang pedas.",
+        "gambar": "Oseng-oseng Mercon.jpg"
+      },
+      {
+        "nama": "cumi goreng tepung",
+        "keterangan": "Cumi goreng tepung merupakan salah satu olahan kuliner cumi yang banyak diminati karena memiliki cita rasa yang gurih. Selain rasanya yang lezat, makanan yang memiliki bentuk mirip seperti cincin ini juga punya tekstur yang renyah ketika disantap",
+        "gambar": "Cumi Tepung.jpg"
+      },
+      {
+        "nama": "kakap bakar",
+        "keterangan": "Kakap bakar merupakan salah satu hidangan seafood yang paling populer. Dari rasa daging ikannya yang manis ditambah cara masaknya yag dibakar sangat disukai banyak orang",
+        "gambar": "Kakap Bakar.jpg"
+      },
+      {
+        "nama": "udang bakar madu",
+        "keterangan": "Udang bakar madu ialah salah satu masakan seafood yang populer dan bahkan mendunia. Dengan sajian rasa yang menggugah selera yaitu manis, enak, pedas dan gurih ini menjadikan sajikan yang sesuai sebagai menu makan bersama dengan nasi putih yang pulen dan hangat.",
+        "gambar": "Udang Bakar.jpg"
+      },
+      {
+        "nama": "soto ayam",
+        "keterangan": "Soto ayam adalah makanan khas Indonesia yang berupa sejenis sup ayam dengan kuah yang berwarna kekuningan. Warna kuning ini dikarenakan oleh kunyit yang digunakan sebagai bumbu.",
+        "gambar": "Soto Ayam.jpg"
+      },
+      {
+        "nama": "sate kambing",
+        "keterangan": "Sate kambing adalah sejenis makanan sate terbuat dari daging kambing. daging kambing tersebut disate (ditusuk dengan bambu yang dibentuk seperti lidi yang agak besar) dan dibumbui dengan rempah-rempah dan bumbu dapur, kemudian dibakar",
+        "gambar": "Sate kambing.jpg"
+      }
+    ]
+}
